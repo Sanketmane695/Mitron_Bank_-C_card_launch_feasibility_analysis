@@ -1,6 +1,6 @@
 # Mitron_Bank_-C_card_launch_feasibility_analysis
 Mitron Bank: Credit Card Launch Feasibility Analysis
-
+analysis and report link - https://colab.research.google.com/drive/1aChroxvTRi2UqLdF_eI3Vsbg4vg4fwqD?usp=sharing
 🔍 Project Overview
 
 The goal of this analysis is to understand whether Mitron Bank should introduce a new credit card product. The dataset contains customer demographics, income levels, spending behavior, city information, occupation, and payment method usage.
